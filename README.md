@@ -6,6 +6,11 @@ Links:
 - https://en.wikipedia.org/wiki/Nokia_N95
 - wip
 
+Prerequisite:
+
+- Java Up to date
+- wip
+
 Steps:
 
 1. BackUp
