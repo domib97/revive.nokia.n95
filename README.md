@@ -16,4 +16,11 @@ Steps:
 1. BackUp
 2. Hack S60 v3 singing error with:
 3. Norton Hack (for example)
-4. wip
+    - Set Date year to 2009
+    - install NortonSymbianHack.sisx
+    - Open Norton - options - quarantine - restore all
+    - isntall RomPatcherPlus_3.1.sisx
+    - delete Norton from App-Man
+    - reset date
+4. install Py for S60
+5. wip
