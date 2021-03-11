@@ -20,7 +20,7 @@ Steps:
     - install NortonSymbianHack.sisx
     - Open Norton - options - quarantine - restore all
     - install RomPatcherPlus_3.1.sisx
-    - open RomPatcher and tick both checkboxes
+    - open RomPatcher - tick both checkboxes - options - auto install
     - delete Norton from App-Man
     - reset date
 4. install Py for S60
