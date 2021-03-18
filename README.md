@@ -20,8 +20,10 @@ Revive your old S60 3rd FP1 **Nokia N95** 2GB with this guide from 2021 !
 **_Steps:_**
 
 1. BackUp your phone with Nokia_Suite3854_webinstaller_ALL.exe
-2. Hack S60 Symbian singing error with:
-3. Norton Hack (for example)
+2. Flash neweste firmware _v35-0-001_ with: Phoenix_Service_Software _(Passwd is 1234)_ **pause your anti-virus-software for installation**
+3. Hack S60 Symbian singing error with:
+4. Norton Hack (for example)
+    - copy folder "hack" to phone via usb
     - Set Date year to 2009
     - install NortonSymbianHack.sisx
     - Open Norton - options - quarantine - restore all
@@ -29,7 +31,7 @@ Revive your old S60 3rd FP1 **Nokia N95** 2GB with this guide from 2021 !
     - open RomPatcher - tick both checkboxes - options - auto install for both
     - delete Norton from App-Man
     - reset date
-4. install Py for S60
-5. install x-plore (filemanager)
-6. explore my "apps" folder for nice apps and tools
-7. install SDK for programming your own apps in **C++ (native)**, **Java ME (native)**, **QT (native)**, **Python for S60 (PyS60)**
+5. install Py for S60
+6. install x-plore (filemanager)
+7. explore my "apps" folder for nice apps and tools
+8. install SDK for programming your own apps in **C++ (native)**, **Java ME (native)**, **QT (native)**, **Python for S60 (PyS60)**
