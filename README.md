@@ -19,11 +19,14 @@ Revive your old S60 3rd FP1 **Nokia N95** 2GB with this guide from 2021 !
 
 **_Steps:_**
 
-1. BackUp your phone with Nokia_Suite3854_webinstaller_ALL.exe
-2. Download : https://mega.nz/file/tpkEVIhT (key: fjsWdcfrlbc4wA3BLqB4H6MNm1Jvyvu0RlO6fLmdg0c )
-3. Flash neweste firmware _v35-0-001_ with: Phoenix_Service_Software (Passwd is 1234)_ **pause your anti-virus-software for installation**
-4. Hack S60 Symbian singing error with:
-5. Norton Hack (for example)
+1. BackUp your phone with /dev/Nokia_Suite3854_webinstaller_ALL.exe
+2. Download Phoenix_Service_Software: https://mega.nz/file/tpkEVIhT (key: fjsWdcfrlbc4wA3BLqB4H6MNm1Jvyvu0RlO6fLmdg0c )
+3. Unzip (Passwd: 1234) -> **pause your anti-virus-software for installation**
+4. plug in N95 via USB - select COM-Port - test connection in Phoenix and display your product-code
+5. if you get an error try install: Nokia_Connectivity_Cable_Driver.exe from /dev/sdk/dependencies/
+6. Flash neweste firmware _v35-0-001_ (look if your product-code matches with that of the firmware, else change it!) 
+7. Hack S60 Symbian singing error with:
+8. Norton Hack (for example)
     - copy folder "hack" to phone via usb
     - Set Date year to 2009
     - install NortonSymbianHack.sisx
@@ -32,7 +35,7 @@ Revive your old S60 3rd FP1 **Nokia N95** 2GB with this guide from 2021 !
     - open RomPatcher - tick both checkboxes - options - auto install for both
     - delete Norton from App-Man
     - reset date
-6. install Py for S60
-7. install x-plore (filemanager)
-8. explore my "apps" folder for nice apps and tools
-9. install SDK for programming your own apps in **C++ (native)**, **Java ME (native)**, **QT (native)**, **Python for S60 (PyS60)**
+9. install Py for S60
+10. install x-plore (filemanager)
+11. explore my "apps" folder for nice apps and tools
+12. install SDK for programming your own apps in **C++ (native)**, **Java ME (native)**, **QT (native)**, **Python for S60 (PyS60)**
