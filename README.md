@@ -26,9 +26,10 @@ Revive your old S60 3rd FP1 **Nokia N95** 2GB with this guide from 2021 !
     - install NortonSymbianHack.sisx
     - Open Norton - options - quarantine - restore all
     - install RomPatcherPlus_3.1.sisx
-    - open RomPatcher - tick both checkboxes - options - auto install
+    - open RomPatcher - tick both checkboxes - options - auto install for both
     - delete Norton from App-Man
     - reset date
 4. install Py for S60
-5. install x-plore (good filemanager)
+5. install x-plore (filemanager)
 6. explore my "apps" folder for nice apps and tools
+7. install SDK for programming your own apps in **C++ (native)**, **Java ME (native)**, **QT (native)**, **Python for S60 (PyS60)**
