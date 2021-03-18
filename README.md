@@ -1,20 +1,25 @@
 # Revive of Nokia N95
-Revive your Nokia N95 2GB!
+Revive your old S60 3rd FP1 **Nokia N95** 2GB with this guide from 2021 !
 
 Links:
 
 - https://en.wikipedia.org/wiki/Nokia_N95
-- wip
+- https://mrrosset.github.io/Symbian-Archive/index.html (SDKs)
+- https://www.gsmarena.com/nokia_n95-1716.php (still aktive community)
+- http://www.freeware-symbian.com (apps)
+- https://de.phoneky.com/applications/?v=0#gsc.tab=0 (apps)
+- https://www.frendx.com/firmware/download-nokia-n95-rm-320-v35-0-001-stock-firmware-flash-file/ (newest firmware)
+- https://www.mediafire.com/folder/79jhy594xb3uk/Symbian_Development#79jhy594xb3uk (symbian dev tools)
 
 Prerequisite:
 
-- Java Up to date
-- wip
+- N95
+- ...
 
 Steps:
 
-1. BackUp
-2. Hack S60 v3 singing error with:
+1. BackUp your phone with Nokia_Suite3854_webinstaller_ALL.exe
+2. Hack S60 Symbian singing error with:
 3. Norton Hack (for example)
     - Set Date year to 2009
     - install NortonSymbianHack.sisx
@@ -24,5 +29,5 @@ Steps:
     - delete Norton from App-Man
     - reset date
 4. install Py for S60
-5. optional: install x-plore
-6. wip
+5. install x-plore (good filemanager)
+6. explore my "essentials" folder for nice apps and tools
