@@ -7,7 +7,7 @@ Revive your old S60 3rd FP1 **Nokia N95** 2GB with this guide from 2021 !
 - https://en.wikipedia.org/wiki/Nokia_N95
 - https://mrrosset.github.io/Symbian-Archive/index.html (SDKs)
 - https://www.gsmarena.com/nokia_n95-1716.php (still aktive community)
-- http://www.freeware-symbian.com (apps)
+- ~~http://www.freeware-symbian.com (apps)~~
 - https://de.phoneky.com/applications/?v=0#gsc.tab=0 (apps)
 - https://www.frendx.com/firmware/download-nokia-n95-rm-320-v35-0-001-stock-firmware-flash-file/ (newest firmware)
 - https://www.mediafire.com/folder/79jhy594xb3uk/Symbian_Development#79jhy594xb3uk (symbian dev tools)
